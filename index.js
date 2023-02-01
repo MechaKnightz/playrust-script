@@ -30,7 +30,7 @@ const fs = require('fs');
     const reqs = []
     let it = 0;
     groups.forEach((g, i, groups) => {
-        g.children.forEach((c, ci) => {
+        g.children.forEach(async (c, ci) => {
 
             const req = axios.get(
                 `https://rustlabs.com${c.url}`
@@ -38,26 +38,26 @@ const fs = require('fs');
             reqs.push(req);
             it++;
 
-            setTimeout(async () => {
-                console.log(`Fetching: https://rustlabs.com${c.url}`)
-                const { data } = await req;
 
-                const $ = cheerio.load(data);
-                const t = $('.stats-table tbody tr:nth-child(3) td:nth-child(2)').first().text();
+            console.log(`Fetching: https://rustlabs.com${c.url}`)
+            const { data } = await req;
 
-                groups[i].children[ci].time = t;
-            }, it * 1000);
+            const $ = cheerio.load(data);
+            const t = $('.stats-table tbody tr:nth-child(3) td:nth-child(2)').first().text();
+
+            groups[i].children[ci].time = t;
+
         })
         it++;
     })
 
-    console.log(reqs)
     await Promise.all(reqs);
 
-
-    let csv = ""
-
+    let csv = "Name, Despawn time, Type\n";
     csv += groups.reduce((gac, g) => (gac + g.children.reduce((acc, c) => (acc + `${c.name},${c.time},${g.name}\n`), "")), "");
+    fs.writeFileSync('./data.csv', csv);
 
-    fs.writeFileSync('./test.csv', csv);
+    let md = "";
+    md += groups.map((g) => `## ${g.name}\n | Name | Despawn time | \n | --- | --- | \n` + (g.children.reduce((acc, c) => (acc + ` | ${c.name} | ${c.time} | \n`), ""))).join("\n");
+    fs.writeFileSync('./data.md', md);
 })();

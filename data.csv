@@ -1,0 +1,729 @@
+Name, Despawn time, Type
+16x Zoom Scope,40 min ,Weapons
+8x Zoom Scope,40 min ,Weapons
+Assault Rifle,1 hour ,Weapons
+Beancan Grenade,40 min ,Weapons
+Bolt Action Rifle,1 hour ,Weapons
+Bone Club,5 min ,Weapons
+Bone Knife,5 min ,Weapons
+Butcher Knife,5 min ,Weapons
+Candy Cane Club,5 min ,Weapons
+Combat Knife,20 min ,Weapons
+Compound Bow,20 min ,Weapons
+Crossbow,20 min ,Weapons
+Custom SMG,40 min ,Weapons
+Double Barrel Shotgun,40 min ,Weapons
+Eoka Pistol,5 min ,Weapons
+Extended Magazine,40 min ,Weapons
+F1 Grenade,20 min ,Weapons
+Flame Thrower,40 min ,Weapons
+Flashbang,20 min ,Weapons
+HMLMG,1 hour ,Weapons
+Holosight,40 min ,Weapons
+Hunting Bow,5 min ,Weapons
+L96 Rifle,1 hour ,Weapons
+LR-300 Assault Rifle,1 hour ,Weapons
+Longsword,20 min ,Weapons
+M249,1 hour ,Weapons
+M39 Rifle,40 min ,Weapons
+M92 Pistol,40 min ,Weapons
+MP5A4,1 hour ,Weapons
+Mace,20 min ,Weapons
+Machete,5 min ,Weapons
+Molotov Cocktail,20 min ,Weapons
+Multiple Grenade Launcher,1 hour ,Weapons
+Muzzle Boost,40 min ,Weapons
+Muzzle Brake,40 min ,Weapons
+Nailgun,20 min ,Weapons
+Paddle,5 min ,Weapons
+Pitchfork,5 min ,Weapons
+Prototype 17,40 min ,Weapons
+Pump Shotgun,40 min ,Weapons
+Python Revolver,40 min ,Weapons
+Revolver,20 min ,Weapons
+Rocket Launcher,1 hour ,Weapons
+Salvaged Cleaver,20 min ,Weapons
+Salvaged Sword,5 min ,Weapons
+Semi-Automatic Pistol,40 min ,Weapons
+Semi-Automatic Rifle,40 min ,Weapons
+Silencer,20 min ,Weapons
+Simple Handmade Sight,20 min ,Weapons
+Snowball,5 min ,Weapons
+Snowball Gun,5 min ,Weapons
+Spas-12 Shotgun,5 min ,Weapons
+Speargun,5 min ,Weapons
+Stone Spear,5 min ,Weapons
+Thompson,40 min ,Weapons
+Water Gun,5 min ,Weapons
+Water Pistol,5 min ,Weapons
+Waterpipe Shotgun,20 min ,Weapons
+Weapon Lasersight,40 min ,Weapons
+Weapon flashlight,20 min ,Weapons
+Wooden Spear,5 min ,Weapons
+Armored Door,1 hour ,Construction
+Armored Double Door,1 hour ,Construction
+Barbed Wooden Barricade,20 min ,Construction
+Building Plan,5 min ,Construction
+Chainlink Fence,5 min ,Construction
+Chainlink Fence Gate,5 min ,Construction
+Code Lock,5 min ,Construction
+Concrete Barricade,5 min ,Construction
+Door Closer,5 min ,Construction
+Floor grill,20 min ,Construction
+Floor triangle grill,20 min ,Construction
+Garage Door,20 min ,Construction
+High External Stone Gate,1 hour ,Construction
+High External Stone Wall,1 hour ,Construction
+High External Wooden Gate,40 min ,Construction
+High External Wooden Wall,40 min ,Construction
+High Ice Wall,5 min ,Construction
+Key Lock,5 min ,Construction
+Ladder Hatch,40 min ,Construction
+Large Water Catcher,20 min ,Construction
+Metal Barricade,40 min ,Construction
+Metal Shop Front,40 min ,Construction
+Metal Vertical embrasure,5 min ,Construction
+Metal Window Bars,20 min ,Construction
+Metal horizontal embrasure,5 min ,Construction
+Mining Quarry,5 min ,Construction
+Netting,5 min ,Construction
+Prison Cell Gate,20 min ,Construction
+Prison Cell Wall,20 min ,Construction
+Pump Jack,5 min ,Construction
+Reinforced Glass Window,40 min ,Construction
+Sandbag Barricade,5 min ,Construction
+Sheet Metal Door,40 min ,Construction
+Sheet Metal Double Door,5 min ,Construction
+Shop Front,5 min ,Construction
+Short Ice Wall,5 min ,Construction
+Small Water Catcher,5 min ,Construction
+Stone Barricade,5 min ,Construction
+Strengthened Glass Window,20 min ,Construction
+Tool Cupboard,5 min ,Construction
+Triangle Ladder Hatch,40 min ,Construction
+Watch Tower,20 min ,Construction
+Wood Double Door,40 min ,Construction
+Wood Shutters,5 min ,Construction
+Wooden Barricade,5 min ,Construction
+Wooden Barricade Cover,5 min ,Construction
+Wooden Door,5 min ,Construction
+Wooden Ladder,40 min ,Construction
+Wooden Window Bars,5 min ,Construction
+Advent Calendar,5 min ,Items
+Barbeque,5 min ,Items
+Bed,20 min ,Items
+Bota Bag,5 min ,Items
+Camp Fire,5 min ,Items
+Carvable Pumpkin,5 min ,Items
+Chair,5 min ,Items
+Chinese Lantern,5 min ,Items
+Chippy Arcade Game,5 min ,Items
+Christmas Door Wreath,5 min ,Items
+Christmas Lights,5 min ,Items
+Christmas Tree,5 min ,Items
+Composter,5 min ,Items
+Double Sign Post,20 min ,Items
+Dragon Door Knocker,5 min ,Items
+Drop Box,20 min ,Items
+Easter Door Wreath,5 min ,Items
+Festive Doorway Garland,5 min ,Items
+Festive Double Doorway Garland,5 min ,Items
+Festive Window Garland,5 min ,Items
+Frankenstein Table,20 min ,Items
+Fridge,5 min ,Items
+Furnace,5 min ,Items
+Hitch & Trough,5 min ,Items
+Hobo Barrel,5 min ,Items
+Huge Wooden Sign,20 min ,Items
+Jack O Lantern Angry,5 min ,Items
+Jack O Lantern Happy,5 min ,Items
+Kayak,5 min ,Items
+Landscape Photo Frame,20 min ,Items
+Landscape Picture Frame,20 min ,Items
+Lantern,5 min ,Items
+Large Banner Hanging,40 min ,Items
+Large Banner on pole,40 min ,Items
+Large Furnace,40 min ,Items
+Large Photo Frame,40 min ,Items
+Large Planter Box,5 min ,Items
+Large Wood Box,5 min ,Items
+Large Wooden Sign,20 min ,Items
+Locker,20 min ,Items
+Mail Box,5 min ,Items
+Medium Wooden Sign,5 min ,Items
+Mixing Table,20 min ,Items
+One Sided Town Sign Post,20 min ,Items
+Paper Map,30 sec,Items
+Pookie Bear,5 min ,Items
+Portrait Photo Frame,20 min ,Items
+Portrait Picture Frame,20 min ,Items
+Repair Bench,5 min ,Items
+Research Table,40 min ,Items
+Rug,5 min ,Items
+Rug Bear Skin,5 min ,Items
+SUPER Stocking,5 min ,Items
+Salvaged Shelves,20 min ,Items
+Scarecrow,5 min ,Items
+Secret Lab Chair,5 min ,Items
+Single Sign Post,5 min ,Items
+Skull Door Knocker,5 min ,Items
+Skull Fire Pit,5 min ,Items
+Sleeping Bag,20 min ,Items
+Small Oil Refinery,20 min ,Items
+Small Planter Box,5 min ,Items
+Small Stash,5 min ,Items
+Small Stocking,5 min ,Items
+Small Wooden Sign,5 min ,Items
+Snowman,5 min ,Items
+Sofa,5 min ,Items
+Sofa - Pattern,5 min ,Items
+Spinning wheel,5 min ,Items
+Stone Fireplace,5 min ,Items
+Survival Fish Trap,5 min ,Items
+Table,5 min ,Items
+Tall Picture Frame,20 min ,Items
+Tuna Can Lamp,5 min ,Items
+Twitch Rivals Trophy,5 min ,Items
+Two Sided Hanging Sign,20 min ,Items
+Two Sided Ornate Hanging Sign,40 min ,Items
+Two Sided Town Sign Post,40 min ,Items
+Vending Machine,20 min ,Items
+Water Barrel,5 min ,Items
+Water Purifier,5 min ,Items
+Wood Storage Box,5 min ,Items
+Workbench Level 1,40 min ,Items
+Workbench Level 2,40 min ,Items
+Workbench Level 3,40 min ,Items
+XL Picture Frame,40 min ,Items
+XXL Picture Frame,40 min ,Items
+Animal Fat,5 min ,Resources
+Battery - Small,5 min ,Resources
+Blue Dog Tags,5 min ,Resources
+Bone Fragments,5 min ,Resources
+CCTV Camera,1 hour ,Resources
+Charcoal,5 min ,Resources
+Cloth,20 min ,Resources
+Coal :(,5 min ,Resources
+Crude Oil,5 min ,Resources
+Diesel Fuel,5 min ,Resources
+Dog Tag,5 min ,Resources
+Empty Can Of Beans,5 min ,Resources
+Empty Tuna Can,5 min ,Resources
+Explosives,1 hour ,Resources
+Fertilizer,5 min ,Resources
+Gun Powder,1 hour ,Resources
+High Quality Metal,40 min ,Resources
+High Quality Metal Ore,40 min ,Resources
+Horse Dung,1 hour ,Resources
+Human Skull,5 min ,Resources
+Leather,20 min ,Resources
+Low Grade Fuel,5 min ,Resources
+Metal Fragments,20 min ,Resources
+Metal Ore,20 min ,Resources
+Paper,5 min ,Resources
+Plant Fiber,5 min ,Resources
+Red Dog Tags,5 min ,Resources
+Research Paper,5 min ,Resources
+Salt Water,,Resources
+Scrap,20 min ,Resources
+Stones,5 min ,Resources
+Sulfur,40 min ,Resources
+Sulfur Ore,40 min ,Resources
+Targeting Computer,1 hour ,Resources
+Water,,Resources
+Wolf Skull,5 min ,Resources
+Wood,5 min ,Resources
+A Barrel Costume,20 min ,Attire
+Arctic Scientist Suit,5 min ,Attire
+Arctic Suit,40 min ,Attire
+Bandana Mask,5 min ,Attire
+Bandit Guard Gear,5 min ,Attire
+Baseball Cap,40 min ,Attire
+Basic Horse Shoes,5 min ,Attire
+Beenie Hat,5 min ,Attire
+Blue Jumpsuit,5 min ,Attire
+Bone Armor,5 min ,Attire
+Bone Helmet,5 min ,Attire
+Boonie Hat,5 min ,Attire
+Boots,20 min ,Attire
+Bucket Helmet,20 min ,Attire
+Bunny Ears,5 min ,Attire
+Bunny Hat,5 min ,Attire
+Bunny Onesie,40 min ,Attire
+Burlap Gloves,5 min ,Attire
+Burlap Headwrap,5 min ,Attire
+Burlap Shirt,5 min ,Attire
+Burlap Shoes,5 min ,Attire
+Burlap Trousers,5 min ,Attire
+Candle Hat,5 min ,Attire
+Card Movember Moustache,5 min ,Attire
+Clatter Helmet,5 min ,Attire
+Coffee Can Helmet,20 min ,Attire
+Crate Costume,20 min ,Attire
+Diving Fins,20 min ,Attire
+Diving Mask,20 min ,Attire
+Diving Tank,20 min ,Attire
+Dragon Mask,5 min ,Attire
+Egg Suit,40 min ,Attire
+Frog Boots,5 min ,Attire
+Gas Mask,5 min ,Attire
+Ghost Costume,40 min ,Attire
+Gingerbread Suit,40 min ,Attire
+Glowing Eyes,5 min ,Attire
+Hazmat Suit,40 min ,Attire
+Headset,5 min ,Attire
+Heavy Frankenstein Head,5 min ,Attire
+Heavy Frankenstein Legs,5 min ,Attire
+Heavy Frankenstein Torso,5 min ,Attire
+Heavy Plate Helmet,40 min ,Attire
+Heavy Plate Jacket,40 min ,Attire
+Heavy Plate Pants,40 min ,Attire
+Heavy Scientist Suit,5 min ,Attire
+Hide Boots,5 min ,Attire
+Hide Halterneck,5 min ,Attire
+Hide Pants,5 min ,Attire
+Hide Poncho,5 min ,Attire
+Hide Skirt,5 min ,Attire
+Hide Vest,5 min ,Attire
+High Quality Horse Shoes,20 min ,Attire
+Hoodie,20 min ,Attire
+Horse Saddle,5 min ,Attire
+Improvised Balaclava,5 min ,Attire
+Jacket,5 min ,Attire
+Jumpsuit,5 min ,Attire
+Leather Gloves,5 min ,Attire
+Light Frankenstein Head,5 min ,Attire
+Light Frankenstein Legs,5 min ,Attire
+Light Frankenstein Torso,5 min ,Attire
+Longsleeve T-Shirt,5 min ,Attire
+Lumberjack Hoodie,20 min ,Attire
+Medium Frankenstein Head,5 min ,Attire
+Medium Frankenstein Legs,5 min ,Attire
+Medium Frankenstein Torso,5 min ,Attire
+Metal Chest Plate,1 hour ,Attire
+Metal Facemask,1 hour ,Attire
+Miners Hat,5 min ,Attire
+Movember Moustache,5 min ,Attire
+Mummy Suit,40 min ,Attire
+Nest Hat,5 min ,Attire
+Night Vision Goggles,40 min ,Attire
+Ninja Suit,5 min ,Attire
+Ox Mask,5 min ,Attire
+Pants,20 min ,Attire
+Party Hat,30 sec,Attire
+Purple Sunglasses,5 min ,Attire
+Rabbit Mask,5 min ,Attire
+Rat Mask,5 min ,Attire
+Reindeer Antlers,5 min ,Attire
+Riot Helmet,20 min ,Attire
+Road Sign Jacket,20 min ,Attire
+Road Sign Kilt,20 min ,Attire
+Roadsign Gloves,5 min ,Attire
+Roadsign Horse Armor,40 min ,Attire
+Saddle bag,5 min ,Attire
+Santa Beard,5 min ,Attire
+Santa Hat,5 min ,Attire
+Scarecrow Suit,40 min ,Attire
+Scarecrow Wrap,5 min ,Attire
+Scientist Suit,5 min ,Attire
+Shirt,20 min ,Attire
+Shorts,5 min ,Attire
+Snow Jacket,5 min ,Attire
+Snowman Helmet,5 min ,Attire
+Sunglasses,20 min ,Attire
+Surgeon Scrubs,40 min ,Attire
+T-Shirt,5 min ,Attire
+Tactical Gloves,5 min ,Attire
+Tank Top,5 min ,Attire
+Tiger Mask,5 min ,Attire
+Wetsuit,40 min ,Attire
+Wolf Headdress,40 min ,Attire
+Wood Armor Helmet,20 min ,Attire
+Wood Armor Pants,20 min ,Attire
+Wood Chestplate,20 min ,Attire
+Wooden Horse Armor,5 min ,Attire
+Binoculars,20 min ,Tools
+Birthday Cake,5 min ,Tools
+Camera,1 hour ,Tools
+Chainsaw,40 min ,Tools
+Fishing Tackle,5 min ,Tools
+Flare,5 min ,Tools
+Flashlight,5 min ,Tools
+Garry's Mod Tool Gun,5 min ,Tools
+Geiger Counter,5 min ,Tools
+Hammer,5 min ,Tools
+Handmade Fishing Rod,5 min ,Tools
+Hatchet,20 min ,Tools
+Instant Camera,1 hour ,Tools
+Jackhammer,40 min ,Tools
+Pickaxe,20 min ,Tools
+RF Transmitter,5 min ,Tools
+Rock,5 min ,Tools
+Salvaged Axe,40 min ,Tools
+Salvaged Hammer,20 min ,Tools
+Salvaged Icepick,40 min ,Tools
+Satchel Charge,40 min ,Tools
+Smoke Grenade,20 min ,Tools
+Spray Can,5 min ,Tools
+Stone Hatchet,5 min ,Tools
+Stone Pickaxe,5 min ,Tools
+Supply Signal,1 hour ,Tools
+Survey Charge,5 min ,Tools
+Timed Explosive Charge,1 hour ,Tools
+Torch,30 sec,Tools
+Water Bucket,5 min ,Tools
+Anti-Radiation Pills,5 min ,Medical
+Bandage,5 min ,Medical
+Blood,5 min ,Medical
+Large Medkit,20 min ,Medical
+Medical Syringe,20 min ,Medical
+Adv. Anti-Rad Tea,5 min ,Food
+Advanced Healing Tea,5 min ,Food
+Advanced Max Health Tea,5 min ,Food
+Advanced Ore Tea,5 min ,Food
+Advanced Rad. Removal Tea,5 min ,Food
+Advanced Scrap Tea,5 min ,Food
+Advanced Wood Tea,5 min ,Food
+Anchovy,5 min ,Food
+Anti-Rad Tea,5 min ,Food
+Apple,5 min ,Food
+Basic Healing Tea,5 min ,Food
+Basic Max Health Tea,5 min ,Food
+Basic Ore Tea,5 min ,Food
+Basic Scrap Tea,5 min ,Food
+Basic Wood Tea,5 min ,Food
+Black Berry,20 min ,Food
+Black Berry Clone,5 min ,Food
+Black Berry Seed,5 min ,Food
+Black Raspberries,20 min ,Food
+Blue Berry,20 min ,Food
+Blue Berry Clone,5 min ,Food
+Blue Berry Seed,5 min ,Food
+Blueberries,20 min ,Food
+Burnt Bear Meat,5 min ,Food
+Burnt Chicken,5 min ,Food
+Burnt Deer Meat,5 min ,Food
+Burnt Horse Meat,5 min ,Food
+Burnt Human Meat,5 min ,Food
+Burnt Pork,5 min ,Food
+Burnt Wolf Meat,5 min ,Food
+Cactus Flesh,5 min ,Food
+Can of Beans,5 min ,Food
+Can of Tuna,5 min ,Food
+Candy Cane,5 min ,Food
+Catfish,5 min ,Food
+Chocolate Bar,5 min ,Food
+Cooked Bear Meat,20 min ,Food
+Cooked Chicken,20 min ,Food
+Cooked Deer Meat,20 min ,Food
+Cooked Fish,5 min ,Food
+Cooked Horse Meat,20 min ,Food
+Cooked Human Meat,5 min ,Food
+Cooked Pork,20 min ,Food
+Cooked Wolf Meat,20 min ,Food
+Corn,20 min ,Food
+Corn Clone,5 min ,Food
+Corn Seed,5 min ,Food
+Granola Bar,5 min ,Food
+Green Berry,20 min ,Food
+Green Berry Clone,5 min ,Food
+Green Berry Seed,5 min ,Food
+Grub,5 min ,Food
+Hemp Clone,5 min ,Food
+Hemp Seed,5 min ,Food
+Herring,5 min ,Food
+Minnows,5 min ,Food
+Mushroom,5 min ,Food
+Orange Roughy,5 min ,Food
+Pickles,5 min ,Food
+Potato,20 min ,Food
+Potato Clone,5 min ,Food
+Potato Seed,5 min ,Food
+Pumpkin,20 min ,Food
+Pumpkin Plant Clone,5 min ,Food
+Pumpkin Seed,5 min ,Food
+Pure Anti-Rad Tea,5 min ,Food
+Pure Healing Tea,5 min ,Food
+Pure Max Health Tea,5 min ,Food
+Pure Ore Tea,5 min ,Food
+Pure Rad. Removal Tea,5 min ,Food
+Pure Scrap Tea,5 min ,Food
+Pure Wood Tea,5 min ,Food
+Rad. Removal Tea,5 min ,Food
+Raw Bear Meat,20 min ,Food
+Raw Chicken Breast,20 min ,Food
+Raw Deer Meat,20 min ,Food
+Raw Fish,5 min ,Food
+Raw Horse Meat,20 min ,Food
+Raw Human Meat,5 min ,Food
+Raw Pork,20 min ,Food
+Raw Wolf Meat,20 min ,Food
+Red Berry,20 min ,Food
+Red Berry Clone,5 min ,Food
+Red Berry Seed,5 min ,Food
+Rotten Apple,5 min ,Food
+Salmon,5 min ,Food
+Sardine,5 min ,Food
+Small Shark,5 min ,Food
+Small Trout,5 min ,Food
+Small Water Bottle,5 min ,Food
+Spoiled Chicken,5 min ,Food
+Spoiled Human Meat,5 min ,Food
+Spoiled Wolf Meat,5 min ,Food
+Vodka Bottle,5 min ,Food
+Water Jug,20 min ,Food
+White Berry,20 min ,Food
+White Berry Clone,5 min ,Food
+White Berry Seed,5 min ,Food
+Worm,5 min ,Food
+Yellow Berry,20 min ,Food
+Yellow Berry Clone,5 min ,Food
+Yellow Berry Seed,5 min ,Food
+Yellow Perch,5 min ,Food
+12 Gauge Buckshot,20 min ,Ammo
+12 Gauge Incendiary Shell,20 min ,Ammo
+12 Gauge Slug,20 min ,Ammo
+40mm HE Grenade,1 hour ,Ammo
+40mm Shotgun Round,5 min ,Ammo
+40mm Smoke Grenade,40 min ,Ammo
+5.56 Rifle Ammo,40 min ,Ammo
+Bone Arrow,5 min ,Ammo
+Explosive 5.56 Rifle Ammo,40 min ,Ammo
+Fire Arrow,5 min ,Ammo
+HV 5.56 Rifle Ammo,40 min ,Ammo
+HV Pistol Ammo,40 min ,Ammo
+Handmade Shell,5 min ,Ammo
+High Velocity Arrow,5 min ,Ammo
+High Velocity Rocket,1 hour ,Ammo
+Incendiary 5.56 Rifle Ammo,40 min ,Ammo
+Incendiary Pistol Bullet,40 min ,Ammo
+Incendiary Rocket,1 hour ,Ammo
+MLRS Rocket,1 hour ,Ammo
+Nailgun Nails,5 min ,Ammo
+Pistol Bullet,20 min ,Ammo
+Rocket,1 hour ,Ammo
+SAM Ammo,40 min ,Ammo
+Smoke Rocket WIP!!!!,1 hour ,Ammo
+Speargun Spear,5 min ,Ammo
+Torpedo,20 min ,Ammo
+Wooden Arrow,5 min ,Ammo
+Flame Turret,20 min ,Traps
+Homemade Landmine,40 min ,Traps
+SAM Site,1 hour ,Traps
+Shotgun Trap,40 min ,Traps
+Snap Trap,20 min ,Traps
+Wooden Floor Spikes,5 min ,Traps
+Blue Keycard,5 min ,Misc
+Bronze Egg,5 min ,Misc
+Captain's Log,5 min ,Misc
+Coffin,5 min ,Misc
+Cursed Cauldron,5 min ,Misc
+Decorative Baubels,5 min ,Misc
+Decorative Gingerbread Men,5 min ,Misc
+Decorative Pinecones,5 min ,Misc
+Decorative Plastic Candy Canes,5 min ,Misc
+Decorative Tinsel,5 min ,Misc
+Door Key,5 min ,Misc
+Egg Basket,20 min ,Misc
+Fogger-3000,5 min ,Misc
+Giant Candy Decor,5 min ,Misc
+Giant Lollipop Decor,5 min ,Misc
+Gold Egg,5 min ,Misc
+Gravestone,5 min ,Misc
+Graveyard Fence,5 min ,Misc
+Green Keycard,5 min ,Misc
+Halloween Candy,5 min ,Misc
+Large Candle Set,5 min ,Misc
+Large Loot Bag,5 min ,Misc
+Large Present,5 min ,Misc
+Medium Loot Bag,5 min ,Misc
+Medium Present,5 min ,Misc
+Note,5 min ,Misc
+Painted Egg,5 min ,Misc
+Photograph,5 min ,Misc
+Pumpkin Bucket,20 min ,Misc
+Red Keycard,5 min ,Misc
+Rustigé Egg - Blue,5 min ,Misc
+Rustigé Egg - Green,5 min ,Misc
+Rustigé Egg - Ivory,5 min ,Misc
+Rustigé Egg - Purple,5 min ,Misc
+Rustigé Egg - Red,5 min ,Misc
+Sickle,5 min ,Misc
+Silver Egg,5 min ,Misc
+Small Candle Set,5 min ,Misc
+Small Loot Bag,5 min ,Misc
+Small Present,5 min ,Misc
+Snow Machine,5 min ,Misc
+Spider Webs,5 min ,Misc
+Spooky Speaker,5 min ,Misc
+Star Tree Topper,5 min ,Misc
+Strobe Light,5 min ,Misc
+Tree Lights,5 min ,Misc
+Wooden Cross,5 min ,Misc
+Armored Cockpit Vehicle Module,40 min ,Components
+Armored Passenger Vehicle Module,40 min ,Components
+Bleach,20 min ,Components
+Burst Module,40 min ,Components
+Camper Vehicle Module,40 min ,Components
+Cockpit Vehicle Module,40 min ,Components
+Cockpit With Engine Vehicle Module,40 min ,Components
+Duct Tape,20 min ,Components
+Electric Fuse,40 min ,Components
+Empty Propane Tank,20 min ,Components
+Engine Vehicle Module,40 min ,Components
+Flatbed Vehicle Module,40 min ,Components
+Fuel Tank Vehicle Module,40 min ,Components
+Gears,40 min ,Components
+Glue,20 min ,Components
+High Quality Carburetor,5 min ,Components
+High Quality Crankshaft,5 min ,Components
+High Quality Pistons,5 min ,Components
+High Quality Spark Plugs,5 min ,Components
+High Quality Valves,5 min ,Components
+Large Flatbed Vehicle Module,40 min ,Components
+Low Quality Carburetor,5 min ,Components
+Low Quality Crankshaft,5 min ,Components
+Low Quality Pistons,5 min ,Components
+Low Quality Spark Plugs,5 min ,Components
+Low Quality Valves,5 min ,Components
+MLRS Aiming Module,1 hour ,Components
+Medium Quality Carburetor,5 min ,Components
+Medium Quality Crankshaft,5 min ,Components
+Medium Quality Pistons,5 min ,Components
+Medium Quality Spark Plugs,5 min ,Components
+Medium Quality Valves,5 min ,Components
+Metal Blade,20 min ,Components
+Metal Pipe,40 min ,Components
+Metal Spring,40 min ,Components
+Passenger Vehicle Module,40 min ,Components
+Rear Seats Vehicle Module,40 min ,Components
+Rifle Body,1 hour ,Components
+Road Signs,20 min ,Components
+Rope,20 min ,Components
+SMG Body,40 min ,Components
+Semi Automatic Body,40 min ,Components
+Sewing Kit,20 min ,Components
+Sheet Metal,20 min ,Components
+Sticks,20 min ,Components
+Storage Vehicle Module,40 min ,Components
+Tarp,20 min ,Components
+Taxi Vehicle Module,40 min ,Components
+Tech Trash,1 hour ,Components
+AND Switch,5 min ,Electrical
+Audio Alarm,5 min ,Electrical
+Auto Turret,1 hour ,Electrical
+Blocker,5 min ,Electrical
+Button,5 min ,Electrical
+Cable Tunnel,5 min ,Electrical
+Ceiling Light,5 min ,Electrical
+Computer Station,20 min ,Electrical
+Counter,20 min ,Electrical
+Deluxe Christmas Lights,5 min ,Electrical
+Door Controller,20 min ,Electrical
+Electric Heater,20 min ,Electrical
+Electrical Branch,5 min ,Electrical
+Elevator,40 min ,Electrical
+Flasher Light,5 min ,Electrical
+Fluid Combiner,5 min ,Electrical
+Fluid Splitter,5 min ,Electrical
+Fluid Switch & Pump,5 min ,Electrical
+Green Industrial Wall Light,5 min ,Electrical
+HBHF Sensor,20 min ,Electrical
+Hose Tool,5 min ,Electrical
+Igniter,5 min ,Electrical
+Industrial Wall Light,5 min ,Electrical
+Large Animated Neon Sign,5 min ,Electrical
+Large Neon Sign,5 min ,Electrical
+Large Rechargeable Battery,20 min ,Electrical
+Large Solar Panel,20 min ,Electrical
+Laser Detector,20 min ,Electrical
+Medium Animated Neon Sign,5 min ,Electrical
+Medium Neon Sign,5 min ,Electrical
+Medium Rechargeable Battery,20 min ,Electrical
+Memory Cell,20 min ,Electrical
+Modular Car Lift,40 min ,Electrical
+OR Switch,5 min ,Electrical
+Powered Water Purifier,20 min ,Electrical
+Pressure Pad,5 min ,Electrical
+RAND Switch,5 min ,Electrical
+RF Broadcaster,5 min ,Electrical
+RF Pager,5 min ,Electrical
+RF Receiver,5 min ,Electrical
+Reactive Target,5 min ,Electrical
+Red Industrial Wall Light,5 min ,Electrical
+Root Combiner,20 min ,Electrical
+Search Light,20 min ,Electrical
+Simple Light,5 min ,Electrical
+Siren Light,5 min ,Electrical
+Small Generator,20 min ,Electrical
+Small Neon Sign,5 min ,Electrical
+Small Rechargeable Battery,5 min ,Electrical
+Smart Alarm,20 min ,Electrical
+Smart Switch,5 min ,Electrical
+Splitter,5 min ,Electrical
+Sprinkler,5 min ,Electrical
+Storage Monitor,20 min ,Electrical
+Switch,5 min ,Electrical
+Tesla Coil,5 min ,Electrical
+Test Generator,20 min ,Electrical
+Timer,5 min ,Electrical
+Water Pump,20 min ,Electrical
+Wind Turbine,40 min ,Electrical
+Wire Tool,5 min ,Electrical
+XOR Switch,5 min ,Electrical
+Above Ground Pool,5 min ,Fun
+Acoustic Guitar,5 min ,Fun
+Beach Chair,5 min ,Fun
+Beach Parasol,5 min ,Fun
+Beach Table,5 min ,Fun
+Beach Towel,20 min ,Fun
+Blue Boomer,5 min ,Fun
+Blue Roman Candle,5 min ,Fun
+Boogie Board,5 min ,Fun
+Boom Box,5 min ,Fun
+Canbourine,5 min ,Fun
+Cassette - Long,5 min ,Fun
+Cassette - Medium,5 min ,Fun
+Cassette - Short,5 min ,Fun
+Cassette Recorder,5 min ,Fun
+Champagne Boomer,5 min ,Fun
+Connected Speaker,5 min ,Fun
+Cowbell,5 min ,Fun
+Disco Ball,5 min ,Fun
+Disco Floor,5 min ,Fun
+Firecracker String,5 min ,Fun
+Green Boomer,5 min ,Fun
+Green Roman Candle,5 min ,Fun
+Inner Tube,5 min ,Fun
+Jerry Can Guitar,5 min ,Fun
+Junkyard Drum Kit,5 min ,Fun
+Laser Light,5 min ,Fun
+Megaphone,5 min ,Fun
+Microphone Stand,5 min ,Fun
+Mobile Phone,5 min ,Fun
+New Year Gong,5 min ,Fun
+Orange Boomer,5 min ,Fun
+Paddling Pool,5 min ,Fun
+Pan Flute,5 min ,Fun
+Pattern Boomer,5 min ,Fun
+Plumber's Trumpet,5 min ,Fun
+Portable Boom Box,5 min ,Fun
+Red Boomer,5 min ,Fun
+Red Roman Candle,5 min ,Fun
+Red Volcano Firework,5 min ,Fun
+Shovel Bass,5 min ,Fun
+Skull Spikes,5 min ,Fun
+Skull Trophy,5 min ,Fun
+Sky Lantern,5 min ,Fun
+Sled,5 min ,Fun
+Sound Light,5 min ,Fun
+Sousaphone,5 min ,Fun
+Telephone,20 min ,Fun
+Violet Boomer,5 min ,Fun
+Violet Roman Candle,5 min ,Fun
+Violet Volcano Firework,5 min ,Fun
+Wheelbarrow Piano,5 min ,Fun
+White Volcano Firework,5 min ,Fun
+Wrapped Gift,5 min ,Fun
+Wrapping Paper,5 min ,Fun
+Xylobone,5 min ,Fun
